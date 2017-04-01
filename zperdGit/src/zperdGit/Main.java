@@ -12,5 +12,6 @@ public class Main {
 		System.out.println("Hello");
 		System.out.println("We sell knowledge");
 
+		System.out.println("Test 1");
 	}
 }
